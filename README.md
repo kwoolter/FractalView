@@ -8,18 +8,18 @@ Java Mandelbrot set viewer
 <table>
 <tr>
 <td>
-<img height=300 width=200 src="https://github.com/kwoolter/FractalView/blob/master/src/fractalview/screenshots/Capture0.PNG" alt="capture1">
+<img height=300 width=300 src="https://github.com/kwoolter/FractalView/blob/master/src/fractalview/screenshots/Capture0.PNG" alt="capture1">
 </td>
 <td>
-<img height=300 width=200 src="https://github.com/kwoolter/FractalView/blob/master/src/fractalview/screenshots/Capture1.PNG" alt="capture2">
+<img height=300 width=300 src="https://github.com/kwoolter/FractalView/blob/master/src/fractalview/screenshots/Capture1.PNG" alt="capture2">
 </td>
 </tr>
 <tr>
 <td>
-<img height=300 width=200 src="https://github.com/kwoolter/FractalView/blob/master/src/fractalview/screenshots/Capture2.PNG" alt="capture3">
+<img height=300 width=300 src="https://github.com/kwoolter/FractalView/blob/master/src/fractalview/screenshots/Capture2.PNG" alt="capture3">
 </td>
 <td>
-<img height=300 width=200 src="https://github.com/kwoolter/FractalView/blob/master/src/fractalview/screenshots/Capture3.PNG" alt="capture4">
+<img height=300 width=300 src="https://github.com/kwoolter/FractalView/blob/master/src/fractalview/screenshots/Capture3.PNG" alt="capture4">
 </td>
 </tr>
 </table>
